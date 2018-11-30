@@ -1,0 +1,4 @@
+part 1:
+2. There was a build error importing check.h, so I had to run 'make dep'
+3. Yep they all pass
+4. 
